@@ -1,0 +1,9 @@
+.bg-gradient{
+    background: rgb(63,251,169);
+background: radial-gradient(circle, rgba(63,251,169,1) 0%, rgba(97,70,252,1) 100%)!important;
+}
+
+.row{
+    min-height: 400px;
+    text-align: center;
+}
